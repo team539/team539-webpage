@@ -1,0 +1,235 @@
+h2 { 
+  background-color: #ddffcc;
+ }
+
+
+th {
+	background-color: lightblue;
+}
+
+td {
+	border-collapse: collapse;
+	empty-cells: show;
+	background-color: #ddffdd;
+}
+
+
+.section-lv2 table { 
+        border: solid 0px #000000;
+ }
+
+th span.L {
+	background-color: #99FFCC;
+}
+
+th span.S {
+	background-color: #FF0000;
+}
+
+
+th span.E {
+	background-color: #CCCCCC;
+}
+
+th span.T {
+	background-color: #CCCC00;
+}
+
+th span.H {
+        background-color: orange;
+}
+
+
+body {
+	background-color: #ffffee;
+}
+
+
+h2 {
+	background-color: pink;
+}
+
+h3 {
+	background-color: #ffeedd;
+}
+
+
+th {
+	background-color: lightblue;
+}
+
+td {
+	border-collapse: collapse;
+	empty-cells: show;
+	background-color: #EEEEEE;
+}
+
+
+.java {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	white-space: pre;
+	background-color: #CCFFFF;
+}
+
+.C {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	white-space: pre;
+	background-color: #CCFFFF;
+}
+
+
+.gnuplot {
+	font-family: Courier,monospace;
+	font-size: small;
+	white-space: pre;
+	background-color: #CCFFCC;
+}
+
+.lisp {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	white-space: pre;
+	background-color: #FFCCCC;
+}
+
+.data {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	white-space: pre;
+        max-width: 80em;
+        overflow: scroll;
+}
+
+
+
+.makefile {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	white-space: pre;
+	background-color: #CCCCFF;
+}
+
+.comment {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	background-color: #FFCCAA;
+}
+
+.correct {
+	font-family: Courier,sans-serif;
+	font-size: small;
+	color: Red;
+}
+
+
+.warn {
+	color: purple;
+	background-color:wheat;
+}
+
+.emph {
+	color: magenta;
+	background-color:lime;
+}
+
+
+.filename {
+	color:darkolivegreen;
+}
+
+.path {
+	color:darkolivegreen;
+}
+
+.code {
+	font-size: small;
+}
+
+.deleted {
+	text-decoration: line-through;
+}
+
+.navbar {
+	font-size: small;
+	background-color: #DDDDDD;
+}
+
+.holiday {
+	background-color: orange;
+}
+
+.timestamp {
+	font-size: xx-small;
+        color: darkolivegreen;
+}
+
+.range {
+	font-size: xx-small;
+        color: darkolivegreen;
+}
+
+.wmenu {
+	background-color: #CCCC99;
+}
+
+.result{
+  background-color: pink;
+}
+
+.reply{
+  background-color: cyan;
+  list-style-type: none;
+}
+
+
+samp { 
+       background-color: #DDDDDD;
+       } 
+
+kbd {  
+      background-color: #CCFFCC;
+}
+
+
+.ta { 
+      color: red;
+ }
+
+
+
+pre {
+         background-color: #CCFFFF;
+         max-width: 80em;
+         overflow: scroll;
+}
+
+pre.html {
+         background-color: #FFCCFF;
+         max-width: 80em;
+         overflow: scroll;
+}
+
+pre.shell {
+	background-color: #CCFFFF;
+	font-family: Courier,sans-serif;
+	font-size: small;
+	white-space: pre;
+        max-width: 80em;
+        overflow: scroll;
+}
+
+
+code.as { 
+         background-color: #CCFFFF;
+	font-family: Courier,sans-serif;
+	font-size: small;
+ }
+
+
+var.as { 
+         background-color: #CCFFFF;
+	font-family: Courier,sans-serif;
+	font-size: small;
+ }
